@@ -1,2 +1,26 @@
 
+.holder{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.holder div{
+	width:45px;
+	height:45px;
+	
+}
+
+.item-1{
+	background-color:red;
+}
+.item-2{
+	background-color:blue;
+}
+.item-3{
+	background-color:gray;
+}
+.item-4{
+	background-color:green;
+}
 /* Your CSS Code here. */
